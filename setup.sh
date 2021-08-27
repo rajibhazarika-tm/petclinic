@@ -21,6 +21,8 @@ FIRST_DB_ID=$(echo "${DBS}" | jq -c '.[0].id')
 FIRST_DB_REGION=$(echo "${DBS}" | jq -c '.[0].info.region')
 FIRST_DB_USER=$(echo "${DBS}" | jq -c '.[0].info.user')
 
+
+:x
 # TODO: Allow the user to select a keyspace
 FIRST_DB_KEYSPACE=$(echo "${DBS}" | jq -c '.[0].info.keyspaces[0]')
 FIRST_DB_SECURE_BUNDLE_URL=$(echo "${DBS}" | jq -c '.[0].info.datacenters[0].secureBundleUrl')
