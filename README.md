@@ -6,6 +6,9 @@ This sample is a fully reactive version of the Spring PetClinic application usin
 ![image](doc/img/ui-top.png?raw=true)
 
 The steps to run the application are provided below. You can run the application with no installation using Gitpod and Cassandra as DBaas for free or locally. To get started with a free-forever, zero-install Cassandra database **[click here](https://astra.datastax.com/register?utm_source=github&utm_medium=referral&utm_campaign=spring-petclinic-reactive)** 🚀
+:I
+dndndndndnd
+
 
 ![Pet Clinic Welcome Screen](doc/img/logical-architecture.png?raw=true)
 *Architecture overview*
