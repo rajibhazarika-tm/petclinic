@@ -16,6 +16,3 @@ scrape_configs:
   scrape_interval: 5s
   static_configs:
   - targets: ['docker.for.mac.localhost:9967']
-
-
-  
